@@ -1,1 +1,5 @@
 /learning_material
+
+# Ignore saved models
+*.pt
+*.pth
